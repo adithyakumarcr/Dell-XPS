@@ -1,5 +1,5 @@
-# Dell-XPS
-
+# Dell-XPS Installation guide for Ubuntu 18.04LTS
+ 
 ### Installation Procedure for Dell XPS 15 9510 
 
 1) Fix touch pad right click button
